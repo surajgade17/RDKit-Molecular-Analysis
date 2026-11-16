@@ -41,5 +41,4 @@ Generated in `output/`:
 ## Important limitations
 This is a demonstration project using calculated descriptors. Lipinski's Rule of Five is a heuristic, not proof of drug-likeness, safety, efficacy, oral bioavailability, or clinical suitability. Duplicate compounds in the example dataset are included as a data-quality teaching point; consider removing duplicates for a production analysis. Check chemical structures and outputs before client delivery.
 
-## Portfolio presentation
-Label this as a **self-directed demonstration project**. Do not describe it as paid client work unless it was.
+
